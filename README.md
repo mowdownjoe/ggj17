@@ -1,4 +1,4 @@
-# Freak. When? See!
+# _Freak. When? See!_
 
 ### What is this?
 _Freak. When? See!_ is a game created for Global Game Jam 2017, created in the Unity game engine. It is also an homage to the band They Might Be Giants. The game can be played [here](https://mowdownjoe.itch.io/freak-when-see-aka-gigantic-odyssey) on itch.io.
